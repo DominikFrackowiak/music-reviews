@@ -1,0 +1,28 @@
+[
+	{
+		"band": "Neurosis",
+		"album": "Souls At Zero",
+		"year": 1992,
+		"recordLabel": "Alternative Tentacles",
+		"rating": 10,
+		"body": "lorem ipsum dolor sit amet, consectetur adipiscing",
+		"tags": [
+			"hardcore",
+			"punk",
+			"metal",
+			"noise",
+			"alternative",
+			"alternative tentacles",
+			"hardcore/punk"
+		]
+	},
+	{
+		"band": "Bad Brains",
+		"album": "I against I",
+		"year": 1986,
+		"recordLabel": "SST",
+		"rating": 10,
+		"body": "lorem ipsum dolor sit amet, consectetur adipiscing",
+		"tags": ["hardcore", "punk", "alternative", "SST", "hardcore/punk"]
+	}
+]

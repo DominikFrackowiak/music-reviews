@@ -1,5 +1,28 @@
 [
 	{
+		"_id": "65d479837d5e7c9ce8530974",
+		"band": "Armia",
+		"album": "Legenda",
+		"year": 1991,
+		"recordLabel": "Wifon",
+		"rating": 10,
+		"body": "lorem ipsum dolor sit amet, consectetur adipiscing",
+		"tags": ["hardcore", "punk", "alternative", "Wifon", "hardcore/punk"],
+		"slug": "armia-legenda"
+	},
+	{
+		"_id": "65d3281506d1a9f63175b27f",
+		"band": "Bad Brains",
+		"album": "I against I",
+		"year": 1986,
+		"recordLabel": "SST",
+		"rating": 10,
+		"body": "lorem ipsum dolor sit amet, consectetur adipiscing",
+		"tags": ["hardcore", "punk", "alternative", "SST", "hardcore/punk"],
+		"slug": "bad-brains-i-against-i"
+	},
+	{
+		"_id": "65d3281506d1a9f63175b27e",
 		"band": "Neurosis",
 		"album": "Souls At Zero",
 		"year": 1992,
@@ -14,15 +37,7 @@
 			"alternative",
 			"alternative tentacles",
 			"hardcore/punk"
-		]
-	},
-	{
-		"band": "Bad Brains",
-		"album": "I against I",
-		"year": 1986,
-		"recordLabel": "SST",
-		"rating": 10,
-		"body": "lorem ipsum dolor sit amet, consectetur adipiscing",
-		"tags": ["hardcore", "punk", "alternative", "SST", "hardcore/punk"]
+		],
+		"slug": "neurosis-souls-at-zero"
 	}
 ]
